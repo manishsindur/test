@@ -816,6 +816,10 @@ video {
   height: 100vh;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .w-96 {
   width: 24rem;
 }
@@ -834,6 +838,10 @@ video {
 
 .w-screen {
   width: 100vw;
+}
+
+.w-12 {
+  width: 3rem;
 }
 
 .flex-shrink {
@@ -1807,6 +1815,11 @@ video {
 .bg-yellow-300 {
   --tw-bg-opacity: 1;
   background-color: rgb(253 224 71 / var(--tw-bg-opacity));
+}
+
+.bg-blue-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(96 165 250 / var(--tw-bg-opacity));
 }
 
 .decoration-slice {
